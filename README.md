@@ -1,4 +1,4 @@
-# machine-learning-end-to-end-project
+#Song popularity prediction and recommendation system
 a complete end to end machine learning project deployed using django
 
 1- Song popularity prediction
